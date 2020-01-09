@@ -3,6 +3,7 @@
 *.egg
 *.egg-info
 *.json
+*.log
 dist
 build
 .idea/
